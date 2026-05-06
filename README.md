@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/279698688?v=4" width="180" style="border-radius: 50%; border: 4px solid #F23D13;" alt="Fatih Toprak" />
-</p>
-
 <h1 align="center">Fatih Toprak</h1>
 <p align="center">
   <b>Senior Full-stack Developer | Software Architect | AI & Automation Orchestrator</b>
