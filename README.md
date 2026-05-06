@@ -1,87 +1,77 @@
-# Merhaba, Ben Fatih! 👋 / Hi, I'm Fatih!
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/279698688?v=4" width="180" style="border-radius: 50%; border: 4px solid #F23D13;" alt="Fatih Toprak" />
+</p>
+
+<h1 align="center">Fatih Toprak</h1>
+<p align="center">
+  <b>Senior Full-stack Developer | Software Architect | AI & Automation Orchestrator</b>
+</p>
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/279698688?v=4" width="150" style="border-radius: 50%;" alt="Fatih Toprak" />
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=fatihtoprakk&label=Profile%20Views&color=0e75b6&style=flat" alt="fatihtoprakk" />
-  <br><br>
   <a href="https://api.whatsapp.com/send?phone=905335962053&text=Merhaba%20Fatih">
     <img src="https://img.shields.io/badge/WhatsApp-Bana%20Ulaşın-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+  <a href="https://fatihtoprak.com">
+    <img src="https://img.shields.io/badge/Website-Personal-0e75b6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+  </a>
+  <a href="https://scaefy.com">
+    <img src="https://img.shields.io/badge/Company-Scaefy-F23D13?style=for-the-badge&logo=rocket&logoColor=white" alt="Scaefy" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=fatihtoprakk&label=Profile%20Views&color=0e75b6&style=flat" alt="fatihtoprakk" />
+</p>
+
+---
+
+### 🌟 Hakkımda / About Me
+
+**TR:** 15 yılı aşkın süredir (WordPress v2.7'den beri) dijital dünyada ölçeklenebilir ve yüksek performanslı sistemler inşa ediyorum. Şu an **[Scaefy](https://scaefy.com)** bünyesinde karmaşık backend mimarileri, Laravel ekosistemi ve yapay zeka entegrasyonları üzerine uzmanlaşmış bir Senior Software Architect olarak projelerimize liderlik ediyorum.
+
+**EN:** For over 15 years (since WordPress v2.7), I have been building scalable and high-performance systems. Currently, as a Senior Software Architect at **[Scaefy](https://scaefy.com)**, I lead projects focusing on complex backend architectures, the Laravel ecosystem, and AI integrations.
+
+---
+
+### 🚀 AI & Otomasyon Gücü / AI & Automation Power
+
+Geleceği AI ile orkestre ediyoruz:
+- 🤖 **LLM Excellence:** Kod üretiminde **Gemini** & **Claude** modelleriyle %100 verimlilik.
+- ⚙️ **Orchestration:** **n8n** ile sistemler arası kusursuz otonom iş akışları.
+- 🧠 **Agent Intelligence:** **Manus** ile akıllı ve otonom yazılım agent'ları geliştirme.
+
+---
+
+### 🛠️ Teknolojik Cephanelik / Technical Stack
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,laravel,mysql,js,nextjs,vue,wordpress,docker,nginx,linux,bash,git,github,vscode,postman,figma" />
   </a>
 </p>
 
 ---
 
-### 🚀 Hakkımda / About Me
+### 💼 Amiral Gemisi Projeler / Flagship Projects
 
-**TR:** Ben **[Scaefy](https://scaefy.com)** bünyesinde Senior Full-stack Developer ve Backend Mimarı olarak çalışıyorum. WordPress ekosistemi ile v2.7 versiyonundan bu yana (15+ yıl) gelen derin tecrübemi, modern PHP dünyasında Laravel, Filament PHP ve Laravel Backpack ile harmanlıyorum. Müşterilerimiz için ölçeklenebilir ve yüksek performanslı dijital çözümler üretiyorum.
-
-**EN:** I am a Senior Full-stack Developer and Backend Architect at **[Scaefy](https://scaefy.com)**. I combine my deep experience with the WordPress ecosystem since version 2.7 (15+ years) with modern PHP tools like Laravel, Filament PHP, and Laravel Backpack. I build scalable and high-performance digital solutions for our clients.
-
----
-
-### 💼 Referanslar & Çözüm Ortakları / Clients & Partners
-
-Scaefy olarak çözüm ürettiğimiz bazı projeler / Some projects we provide solutions for:
-- 🌐 **[ShiftDelete.net](https://shiftdelete.net)**, **[Borsatek.com](https://borsatek.com)**, **[Netlack.com](https://netlack.com)**, **[Daha.net](https://daha.net)**, **[Rizaensatis.com](https://rizaensatis.com)**
-- 📂 **[Daha fazla referans için tıklayın / Click for more references](https://scaefy.com/neler-yaptik/)**
+| Proje / Project | Açıklama / Description | Link |
+| :--- | :--- | :--- |
+| **Scaefy API** | Gelişmiş API servisleri ve mikroservis yönetimi | [Inceleyin](https://api.scaefy.com) |
+| **Maria** | Kurumsal dijital çözümler ve iş yönetim platformu | [Inceleyin](https://maria.scaefy.com) |
+| **Ata Projesi** | Sosyal sorumluluk ve kültürel miras projesi | [Inceleyin](https://ata.fatihtoprak.com) |
 
 ---
 
-### 🛠️ Uzmanlık Alanlarımız & Servisler / Our Services
+### 📈 Global Çözümler / Global Solutions
 
-Scaefy bünyesinde sunduğumuz profesyonel WordPress çözümleri:
-- 🔌 **[WordPress Eklenti Geliştirme / Plugin Development](https://scaefy.com/servislerimiz/wordpress-eklenti-gelistirme/)**
-- ☁️ **[WordPress Hosting & Barındırma / Hosting](https://scaefy.com/servislerimiz/wordpress-hosting-barindirma/)**
-- 🎨 **[WordPress Tema Geliştirme / Theme Development](https://scaefy.com/servislerimiz/wordpress-tema/)**
-- ⚡ **[WordPress Optimizasyonu / Optimization](https://scaefy.com/servislerimiz/wordpress-optimizasyonu/)**
-
----
-
-### 💻 Teknolojik Uzmanlıklar / Technical Expertise
-
-- **Backend:** PHP (Expert), Laravel, Filament PHP, Laravel Backpack, Node.js
-- **CMS & Platforms:** WordPress (Legacy to Modern), Custom CMS Architectures
-- **Frontend:** JavaScript, Next.js, Vue.js, Tailwind CSS
-- **DevOps & System:** Linux Server Management, Nginx, Docker, Bash Scripting, CI/CD
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,js,nextjs,wordpress,docker,nginx,linux,bash,git,github,vscode" />
-</p>
-
----
-
-### 🤖 AI & Otomasyon Orkestrasyonu / AI & Automation Orchestration
-
-**TR:** Geliştirme süreçlerimizi yapay zeka ve otomasyonun gücüyle yeniden tanımlıyoruz. Proje geliştirme, orkestrasyon ve iş akışı otomasyonlarında en güncel AI teknolojilerini kullanıyoruz:
-- 🧠 **LLM Entegrasyonu:** Karmaşık problem çözme ve kod üretimi süreçlerinde **Gemini** ve **Claude** modellerini aktif olarak kullanıyoruz.
-- ⚙️ **İş Akışı Otomasyonu:** **n8n** ile servisler arası kusursuz bir veri akışı ve operasyonel verimlilik sağlıyoruz.
-- 🎭 **AI Agent Orkestrasyonu:** **Manus** ve benzeri agent yapılarıyla yazılım geliştirme döngüsünü otonom ve akıllı bir hale getiriyoruz.
-
-**EN:** We redefine our development processes with the power of AI and automation. We utilize the latest AI technologies for project development, orchestration, and workflow automation:
-- 🧠 **LLM Integration:** Actively utilizing **Gemini** and **Claude** models for complex problem-solving and code generation.
-- ⚙️ **Workflow Automation:** Ensuring seamless data flow and operational efficiency across services with **n8n**.
-- 🎭 **AI Agent Orchestration:** Making the software development lifecycle autonomous and intelligent with **Manus** and similar agent frameworks.
-
----
-
-### 🛠️ Aktif Projeler & Servisler / Active Projects & Services
-
-- **[api.scaefy.com](https://api.scaefy.com)**: Geliştiriciler için sunduğumuz ücretli ve ücretsiz API servisleri merkezi. / A hub for paid and free API services designed for developers.
-- **[maria.scaefy.com](https://maria.scaefy.com)**: Profesyonel dijital çözümler sunduğumuz aktif servisimiz. / Our active service providing professional digital solutions.
-
----
-
-### 🕊️ Toplumsal Katkı & Gönüllü Projeler / Social Responsibility & Volunteer Projects
-
-- **[ata.fatihtoprak.com](https://ata.fatihtoprak.com)**: Değerlerimizi dijital dünyada yaşatmak amacıyla hayata geçirdiğimiz bir saygı ve farkındalık projesidir. / A tribute and awareness project developed to preserve our values.
+**ShiftDelete.net**, **Borsatek.com**, **Netlack**, **Daha.net** ve **Rizaensatis.com** gibi büyük ölçekli platformlar için yüksek performanslı altyapılar sağlıyoruz.
 
 ---
 
 ### 📫 İletişim / Contact
-- 🌐 Web: [fatihtoprak.com](https://fatihtoprak.com)
-- 💼 Business: [scaefy.com](https://scaefy.com)
-- 💬 I'm open to interesting projects and collaborations!
+- 📧 Email: [info@scaefy.com](mailto:info@scaefy.com)
+- 🌐 Blog: [fatihtoprak.com](https://fatihtoprak.com)
+- 💬 *Hadi birlikte yeni bir şeyler inşa edelim! / Let's build something new together!*
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote" />
