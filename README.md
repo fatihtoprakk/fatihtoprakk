@@ -54,9 +54,15 @@ Scaefy olarak çözüm ürettiğimiz ve değer kattığımız bazı projeler / S
 
 ---
 
+### 🕊️ Toplumsal Katkı & Gönüllü Projeler / Social Responsibility & Volunteer Projects
+
+**[ata.fatihtoprak.com](https://ata.fatihtoprak.com)**: Değerlerimizi dijital dünyada yaşatmak ve gelecek nesillere aktarmak amacıyla hayata geçirdiğimiz bir saygı ve farkındalık projesidir. / A tribute and awareness project developed to preserve our values in the digital world and pass them on to future generations.
+
+---
+
 ### 📫 İletişim / Contact
-- 🌐 Web: [scaefy.com](https://scaefy.com)
-- 💼 Business: [Netlack](https://netlack.com)
+- 🌐 Web: [fatihtoprak.com](https://fatihtoprak.com)
+- 💼 Business: [scaefy.com](https://scaefy.com)
 - 💬 I'm open to interesting projects and collaborations!
 
 <p align="center">
