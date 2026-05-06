@@ -21,24 +21,62 @@
 
 ---
 
-### 🌟 Hakkımda / About Me
+### 🚀 Hakkımda / About Me
 
-**TR:** 15 yılı aşkın süredir (WordPress v2.7'den beri) dijital dünyada ölçeklenebilir ve yüksek performanslı sistemler inşa ediyorum. Şu an **[Scaefy](https://scaefy.com)** bünyesinde karmaşık backend mimarileri, Laravel ekosistemi ve yapay zeka entegrasyonları üzerine uzmanlaşmış bir Senior Software Architect olarak projelerimize liderlik ediyorum.
+**TR:** Ben **[Scaefy](https://scaefy.com)** bünyesinde Senior Full-stack Developer ve Backend Mimarı olarak çalışıyorum. WordPress ekosistemi ile v2.7 versiyonundan bu yana (15+ yıl) gelen derin tecrübemi, modern PHP dünyasında Laravel, Filament PHP ve Laravel Backpack ile harmanlıyorum. Müşterilerimiz için ölçeklenebilir ve yüksek performanslı dijital çözümler üretiyorum.
 
-**EN:** For over 15 years (since WordPress v2.7), I have been building scalable and high-performance systems. Currently, as a Senior Software Architect at **[Scaefy](https://scaefy.com)**, I lead projects focusing on complex backend architectures, the Laravel ecosystem, and AI integrations.
-
----
-
-### 🚀 AI & Otomasyon Gücü / AI & Automation Power
-
-Geleceği AI ile orkestre ediyoruz:
-- 🤖 **LLM Excellence:** Kod üretiminde **Gemini** & **Claude** modelleriyle %100 verimlilik.
-- ⚙️ **Orchestration:** **n8n** ile sistemler arası kusursuz otonom iş akışları.
-- 🧠 **Agent Intelligence:** **Manus** ile akıllı ve otonom yazılım agent'ları geliştirme.
+**EN:** I am a Senior Full-stack Developer and Backend Architect at **[Scaefy](https://scaefy.com)**. I combine my deep experience with the WordPress ecosystem since version 2.7 (15+ years) with modern PHP tools like Laravel, Filament PHP, and Laravel Backpack. I build scalable and high-performance digital solutions for our clients.
 
 ---
 
-### 🛠️ Teknolojik Cephanelik / Technical Stack
+### 💼 Referanslar & Çözüm Ortakları / Clients & Partners
+
+Scaefy olarak çözüm ürettiğimiz ve değer kattığımız bazı projeler / Some projects we provide solutions for:
+- 🌐 **[ShiftDelete.net](https://shiftdelete.net)**, **[Borsatek.com](https://borsatek.com)**, **[Netlack.com](https://netlack.com)**, **[Daha.net](https://daha.net)**, **[Rizaensatis.com](https://rizaensatis.com)**
+- 📂 **[Daha fazla referans için tıklayın / Click for more references](https://scaefy.com/neler-yaptik/)**
+
+---
+
+### 🛠️ Uzmanlık Alanlarımız & Servisler / Our Services
+
+Scaefy bünyesinde sunduğumuz profesyonel WordPress çözümleri:
+- 🔌 **[WordPress Eklenti Geliştirme / Plugin Development](https://scaefy.com/servislerimiz/wordpress-eklenti-gelistirme/)**
+- ☁️ **[WordPress Hosting & Barındırma / Hosting](https://scaefy.com/servislerimiz/wordpress-hosting-barindirma/)**
+- 🎨 **[WordPress Tema Geliştirme / Theme Development](https://scaefy.com/servislerimiz/wordpress-tema/)**
+- ⚡ **[WordPress Optimizasyonu / Optimization](https://scaefy.com/servislerimiz/wordpress-optimizasyonu/)**
+
+---
+
+### 🤖 AI & Otomasyon Orkestrasyonu / AI & Automation Orchestration
+
+**TR:** Geliştirme süreçlerimizi yapay zeka ve otomasyonun gücüyle yeniden tanımlıyoruz. Proje geliştirme, orkestrasyon ve iş akışı otomasyonlarında en güncel AI teknolojilerini kullanıyoruz:
+- 🧠 **LLM Entegrasyonu:** Karmaşık problem çözme ve kod üretimi süreçlerinde **Gemini** ve **Claude** modellerini aktif olarak kullanıyoruz.
+- ⚙️ **İş Akışı Otomasyonu:** **n8n** ile servisler arası kusursuz bir veri akışı ve operasyonel verimlilik sağlıyoruz.
+- 🎭 **AI Agent Orkestrasyonu:** **Manus** ve benzeri agent yapılarıyla yazılım geliştirme döngüsünü otonom ve akıllı bir hale getiriyoruz.
+
+**EN:** We redefine our development processes with the power of AI and automation. We utilize the latest AI technologies for project development, orchestration, and workflow automation:
+- 🧠 **LLM Integration:** Actively utilizing **Gemini** and **Claude** models for complex problem-solving and code generation.
+- ⚙️ **Workflow Automation:** Ensuring seamless data flow and operational efficiency across services with **n8n**.
+- 🎭 **AI Agent Orchestration:** Making the software development lifecycle autonomous and intelligent with **Manus** and similar agent frameworks.
+
+---
+
+### 🛠️ Aktif Projeler & Servisler / Active Projects & Services
+
+| Proje / Project | Açıklama / Description | Link |
+| :--- | :--- | :--- |
+| **Scaefy API** | Geliştiriciler için sunduğumuz ücretli ve ücretsiz API servisleri merkezi. / A hub for paid and free API services. | [Inceleyin](https://api.scaefy.com) |
+| **Maria** | Profesyonel dijital çözümler sunduğumuz aktif servisimiz. / Our active service providing professional digital solutions. | [Inceleyin](https://maria.scaefy.com) |
+| **Ata Projesi** | Değerlerimizi dijital dünyada yaşatmak amacıyla hayata geçirdiğimiz saygı ve farkındalık projesi. | [Inceleyin](https://ata.fatihtoprak.com) |
+
+---
+
+### 💻 Teknolojik Uzmanlıklar / Technical Expertise
+
+- **Backend:** PHP (Expert), Laravel, Filament PHP, Laravel Backpack, Node.js
+- **CMS & Platforms:** WordPress (Legacy to Modern), Custom CMS Architectures
+- **Frontend:** JavaScript, Next.js, Vue.js, Tailwind CSS
+- **DevOps & System:** Linux Server Management, Nginx, Docker, Bash Scripting, CI/CD
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -48,25 +86,10 @@ Geleceği AI ile orkestre ediyoruz:
 
 ---
 
-### 💼 Amiral Gemisi Projeler / Flagship Projects
-
-| Proje / Project | Açıklama / Description | Link |
-| :--- | :--- | :--- |
-| **Scaefy API** | Gelişmiş API servisleri ve mikroservis yönetimi | [Inceleyin](https://api.scaefy.com) |
-| **Maria** | Kurumsal dijital çözümler ve iş yönetim platformu | [Inceleyin](https://maria.scaefy.com) |
-| **Ata Projesi** | Sosyal sorumluluk ve kültürel miras projesi | [Inceleyin](https://ata.fatihtoprak.com) |
-
----
-
-### 📈 Global Çözümler / Global Solutions
-
-**ShiftDelete.net**, **Borsatek.com**, **Netlack**, **Daha.net** ve **Rizaensatis.com** gibi büyük ölçekli platformlar için yüksek performanslı altyapılar sağlıyoruz.
-
----
-
 ### 📫 İletişim / Contact
 - 📧 Email: [info@scaefy.com](mailto:info@scaefy.com)
-- 🌐 Blog: [fatihtoprak.com](https://fatihtoprak.com)
+- 🌐 Web: [fatihtoprak.com](https://fatihtoprak.com)
+- 💼 Business: [scaefy.com](https://scaefy.com)
 - 💬 *Hadi birlikte yeni bir şeyler inşa edelim! / Let's build something new together!*
 
 <p align="center">
