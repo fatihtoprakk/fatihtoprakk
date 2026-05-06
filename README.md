@@ -20,12 +20,19 @@
 
 ### 💼 Referanslar & Çözüm Ortakları / Clients & Partners
 
-Scaefy olarak çözüm ürettiğimiz ve değer kattığımız bazı projeler / Some projects we provide solutions for:
-- 🌐 **[ShiftDelete.net](https://shiftdelete.net)**
-- 📈 **[Borsatek.com](https://borsatek.com)**
-- 🔑 **[Netlack.com](https://netlack.com)**
-- 🚀 **[Daha.net](https://daha.net)**
-- 🛒 **[Rizaensatis.com](https://rizaensatis.com)**
+Scaefy olarak çözüm ürettiğimiz bazı projeler / Some projects we provide solutions for:
+- 🌐 **[ShiftDelete.net](https://shiftdelete.net)**, **[Borsatek.com](https://borsatek.com)**, **[Netlack.com](https://netlack.com)**, **[Daha.net](https://daha.net)**, **[Rizaensatis.com](https://rizaensatis.com)**
+- 📂 **[Daha fazla referans için tıklayın / Click for more references](https://scaefy.com/neler-yaptik/)**
+
+---
+
+### 🛠️ Uzmanlık Alanlarımız & Servisler / Our Services
+
+Scaefy bünyesinde sunduğumuz profesyonel WordPress çözümleri:
+- 🔌 **[WordPress Eklenti Geliştirme / Plugin Development](https://scaefy.com/servislerimiz/wordpress-eklenti-gelistirme/)**
+- ☁️ **[WordPress Hosting & Barındırma / Hosting](https://scaefy.com/servislerimiz/wordpress-hosting-barindirma/)**
+- 🎨 **[WordPress Tema Geliştirme / Theme Development](https://scaefy.com/servislerimiz/wordpress-tema/)**
+- ⚡ **[WordPress Optimizasyonu / Optimization](https://scaefy.com/servislerimiz/wordpress-optimizasyonu/)**
 
 ---
 
