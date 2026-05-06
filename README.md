@@ -2,6 +2,10 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=fatihtoprakk&label=Profile%20Views&color=0e75b6&style=flat" alt="fatihtoprakk" />
+  <br><br>
+  <a href="https://api.whatsapp.com/send?phone=905335962053&text=Merhaba%20Fatih">
+    <img src="https://img.shields.io/badge/WhatsApp-Bana%20Ulaşın-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
 </p>
 
 ---
@@ -54,16 +58,16 @@ Scaefy olarak çözüm ürettiğimiz ve değer kattığımız bazı projeler / S
 
 ---
 
-### 🕊️ Toplumsal Katkı & Gönüllü Projeler / Social Responsibility & Volunteer Projects
-
-- **[ata.fatihtoprak.com](https://ata.fatihtoprak.com)**: Değerlerimizi dijital dünyada yaşatmak amacıyla hayata geçirdiğimiz bir saygı ve farkındalık projesidir. / A tribute and awareness project developed to preserve our values.
-- **[maria.scaefy.com](https://maria.scaefy.com)**: Toplumsal fayda odaklı, dijital çözümler sunduğumuz bir diğer gönüllü çalışmamızdır. / Another volunteer project focusing on social impact and digital solutions.
-
----
-
 ### 🛠️ Aktif Projeler & Servisler / Active Projects & Services
 
 - **[api.scaefy.com](https://api.scaefy.com)**: Geliştiriciler için sunduğumuz ücretli ve ücretsiz API servisleri merkezi. / A hub for paid and free API services designed for developers.
+- **[maria.scaefy.com](https://maria.scaefy.com)**: Profesyonel dijital çözümler sunduğumuz aktif servisimiz. / Our active service providing professional digital solutions.
+
+---
+
+### 🕊️ Toplumsal Katkı & Gönüllü Projeler / Social Responsibility & Volunteer Projects
+
+- **[ata.fatihtoprak.com](https://ata.fatihtoprak.com)**: Değerlerimizi dijital dünyada yaşatmak amacıyla hayata geçirdiğimiz bir saygı ve farkındalık projesidir. / A tribute and awareness project developed to preserve our values.
 
 ---
 
