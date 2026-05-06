@@ -56,13 +56,21 @@ Scaefy olarak çözüm ürettiğimiz ve değer kattığımız bazı projeler / S
 
 ### 🕊️ Toplumsal Katkı & Gönüllü Projeler / Social Responsibility & Volunteer Projects
 
-**[ata.fatihtoprak.com](https://ata.fatihtoprak.com)**: Değerlerimizi dijital dünyada yaşatmak ve gelecek nesillere aktarmak amacıyla hayata geçirdiğimiz bir saygı ve farkındalık projesidir. / A tribute and awareness project developed to preserve our values in the digital world and pass them on to future generations.
+- **[ata.fatihtoprak.com](https://ata.fatihtoprak.com)**: Değerlerimizi dijital dünyada yaşatmak amacıyla hayata geçirdiğimiz bir saygı ve farkındalık projesidir. / A tribute and awareness project developed to preserve our values.
+- **[maria.scaefy.com](https://maria.scaefy.com)**: Toplumsal fayda odaklı, dijital çözümler sunduğumuz bir diğer gönüllü çalışmamızdır. / Another volunteer project focusing on social impact and digital solutions.
+
+---
+
+### 🛠️ Aktif Projeler & Servisler / Active Projects & Services
+
+- **[api.scaefy.com](https://api.scaefy.com)**: Geliştiriciler için sunduğumuz ücretli ve ücretsiz API servisleri merkezi. / A hub for paid and free API services designed for developers.
 
 ---
 
 ### 📫 İletişim / Contact
 - 🌐 Web: [fatihtoprak.com](https://fatihtoprak.com)
 - 💼 Business: [scaefy.com](https://scaefy.com)
+- 🟢 **WhatsApp:** [Bana Ulaşın / Contact Me](https://api.whatsapp.com/send?phone=905335962053&text=Merhaba%20Fatih)
 - 💬 I'm open to interesting projects and collaborations!
 
 <p align="center">
