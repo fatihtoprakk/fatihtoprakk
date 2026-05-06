@@ -1,6 +1,8 @@
 # Merhaba, Ben Fatih! 👋 / Hi, I'm Fatih!
 
 <p align="center">
+  <img src="https://avatars.githubusercontent.com/u/279698688?v=4" width="150" style="border-radius: 50%;" alt="Fatih Toprak" />
+  <br>
   <img src="https://komarev.com/ghpvc/?username=fatihtoprakk&label=Profile%20Views&color=0e75b6&style=flat" alt="fatihtoprakk" />
   <br><br>
   <a href="https://api.whatsapp.com/send?phone=905335962053&text=Merhaba%20Fatih">
@@ -44,9 +46,7 @@ Scaefy bünyesinde sunduğumuz profesyonel WordPress çözümleri:
 - **DevOps & System:** Linux Server Management, Nginx, Docker, Bash Scripting, CI/CD
 
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,mysql,js,nextjs,wordpress,docker,nginx,linux,bash,git,github,vscode" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,js,nextjs,wordpress,docker,nginx,linux,bash,git,github,vscode" />
 </p>
 
 ---
@@ -81,7 +81,6 @@ Scaefy bünyesinde sunduğumuz profesyonel WordPress çözümleri:
 ### 📫 İletişim / Contact
 - 🌐 Web: [fatihtoprak.com](https://fatihtoprak.com)
 - 💼 Business: [scaefy.com](https://scaefy.com)
-- 🟢 **WhatsApp:** [Bana Ulaşın / Contact Me](https://api.whatsapp.com/send?phone=905335962053&text=Merhaba%20Fatih)
 - 💬 I'm open to interesting projects and collaborations!
 
 <p align="center">
