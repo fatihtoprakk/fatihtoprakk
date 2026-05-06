@@ -40,18 +40,17 @@ Scaefy olarak çözüm ürettiğimiz ve değer kattığımız bazı projeler / S
 
 ---
 
-### 📊 GitHub İstatistiklerim / My Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fatihtoprakk&show_icons=true&theme=dark&include_all_commits=true" alt="GitHub Stats" height="150" />
-</p>
+### 🤖 AI & Otomasyon Orkestrasyonu / AI & Automation Orchestration
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatihtoprakk&layout=compact&theme=dark" alt="Top Langs" height="150" />
-</p>
+**TR:** Geliştirme süreçlerimizi yapay zeka ve otomasyonun gücüyle yeniden tanımlıyoruz. Proje geliştirme, orkestrasyon ve iş akışı otomasyonlarında en güncel AI teknolojilerini kullanıyoruz:
+- 🧠 **LLM Entegrasyonu:** Karmaşık problem çözme ve kod üretimi süreçlerinde **Gemini** ve **Claude** modellerini aktif olarak kullanıyoruz.
+- ⚙️ **İş Akışı Otomasyonu:** **n8n** ile servisler arası kusursuz bir veri akışı ve operasyonel verimlilik sağlıyoruz.
+- 🎭 **AI Agent Orkestrasyonu:** **Manus** ve benzeri agent yapılarıyla yazılım geliştirme döngüsünü otonom ve akıllı bir hale getiriyoruz.
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fatihtoprakk&theme=dark" alt="GitHub Streak" />
-</p>
+**EN:** We redefine our development processes with the power of AI and automation. We utilize the latest AI technologies for project development, orchestration, and workflow automation:
+- 🧠 **LLM Integration:** Actively utilizing **Gemini** and **Claude** models for complex problem-solving and code generation.
+- ⚙️ **Workflow Automation:** Ensuring seamless data flow and operational efficiency across services with **n8n**.
+- 🎭 **AI Agent Orchestration:** Making the software development lifecycle autonomous and intelligent with **Manus** and similar agent frameworks.
 
 ---
 
@@ -61,5 +60,5 @@ Scaefy olarak çözüm ürettiğimiz ve değer kattığımız bazı projeler / S
 - 💬 I'm open to interesting projects and collaborations!
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote" />
 </p>
