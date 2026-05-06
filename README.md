@@ -8,9 +8,20 @@
 
 ### 🚀 Hakkımda / About Me
 
-**TR:** Ben bir **Senior Full-stack Developer** ve **Backend Mimarı**yım. WordPress ekosistemi ile **v2.7 versiyonundan bu yana** (yaklaşık 15+ yıl) derin bir tecrübeye sahibim. Günümüzde modern PHP dünyasında **Laravel**, **Filament PHP** ve **Laravel Backpack** kullanarak kurumsal seviyede ölçeklenebilir çözümler üretiyorum. **Netlack** ve **Scaefy** gibi projelerin mimari süreçlerini yönetiyorum.
+**TR:** Ben **[Scaefy](https://scaefy.com)** bünyesinde Senior Full-stack Developer ve Backend Mimarı olarak çalışıyorum. WordPress ekosistemi ile v2.7 versiyonundan bu yana (15+ yıl) gelen derin tecrübemi, modern PHP dünyasında Laravel, Filament PHP ve Laravel Backpack ile harmanlıyorum. Müşterilerimiz için ölçeklenebilir ve yüksek performanslı dijital çözümler üretiyorum.
 
-**EN:** I am a **Senior Full-stack Developer** and **Backend Architect**. I have deep experience with the WordPress ecosystem since **version 2.7** (15+ years). Currently, I build enterprise-level scalable solutions in the modern PHP world using **Laravel**, **Filament PHP**, and **Laravel Backpack**. I manage the architectural processes of projects like **Netlack** and **Scaefy**.
+**EN:** I am a Senior Full-stack Developer and Backend Architect at **[Scaefy](https://scaefy.com)**. I combine my deep experience with the WordPress ecosystem since version 2.7 (15+ years) with modern PHP tools like Laravel, Filament PHP, and Laravel Backpack. I build scalable and high-performance digital solutions for our clients.
+
+---
+
+### 💼 Referanslar & Çözüm Ortakları / Clients & Partners
+
+Scaefy olarak çözüm ürettiğimiz ve değer kattığımız bazı projeler / Some projects we provide solutions for:
+- 🌐 **[ShiftDelete.net](https://shiftdelete.net)**
+- 📈 **[Borsatek.com](https://borsatek.com)**
+- 🔑 **[Netlack.com](https://netlack.com)**
+- 🚀 **[Daha.net](https://daha.net)**
+- 🛒 **[Rizaensatis.com](https://rizaensatis.com)**
 
 ---
 
